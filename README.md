@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sapnil Patel</h1>
 <h3 align="center">I am Machine Learning Enthusiast.I am also passionate about Competitive Programming.</h3>
 
-<img align = "right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&rlz=1C1UEAD_enIN948IN948&sxsrf=AJOqlzUD6wVlA3kDtSW5m7PspANBejUk6g:1673098027137&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi1p9Psx7X8AhWxplYBHQtaACEQ_AUoAXoECAEQAw&biw=1396&bih=649&dpr=1.38#imgrc=47chckvIQOvI5M">
+<img align = "right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwie1bnyx7X8AhWkjtgFHZC9BGsQMygLegUIARCvAg..i&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwie1bnyx7X8AhWkjtgFHZC9BGsQMygLegUIARCvAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnilpatel&label=Profile%20views&color=0e75b6&style=flat" alt="sapnilpatel" /> </p>
 
