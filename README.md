@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sapnil Patel</h1>
 <h3 align="center">I am Machine Learning Enthusiast.I am also passionate about Competitive Programming.</h3>
 
-<img align = "right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwie1bnyx7X8AhWkjtgFHZC9BGsQMygLegUIARCvAg..i&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwie1bnyx7X8AhWkjtgFHZC9BGsQMygLegUIARCvAg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwiYlvmW3LX8AhVMktgFHSVhAR4QMygOegUIARCbAg..i&docid=hyRv46xL2D6dsM&w=800&h=600&q=animating%20coding%20gif&ved=2ahUKEwiYlvmW3LX8AhVMktgFHSVhAR4QMygOegUIARCbAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnilpatel&label=Profile%20views&color=0e75b6&style=flat" alt="sapnilpatel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapnilpatel" alt="sapnilpatel" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/640416042172320693?tab=rj](https://www.blogger.com/blog/posts/640416042172320693?tab=rj)
+- 📝 I regularly write articles on [https://medium.com/@SapnilPatel](https://medium.com/@SapnilPatel)
 
-- 💬 Ask me about **Machine Learning, Dsa**
+- 💬 Ask me about **Machine Learning, DSA**
 
 - 📫 How to reach me **sapnilpatel1482@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/sapnil-patel-6a403520a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sapnil-patel-6a403520a" height="30" width="40" /></a>
+<a href="https://medium.com/@sapnilpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sapnilpatel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
