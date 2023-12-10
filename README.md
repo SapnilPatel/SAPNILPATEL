@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sapnil Patel</h1>
-<h3 align="center">I am Machine Learning Enthusiast. I am also passionate about Competitive Programming.</h3>
+<h3 align="center">I am Machine Learning Enthusiast. I am passionate about GenAI and LLM.</h3>
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
