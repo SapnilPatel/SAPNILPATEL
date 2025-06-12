@@ -24,6 +24,9 @@ I enjoy building intelligent systems to solve real-world problems using:
 `Python` · `TensorFlow` · `PyTorch` · `HuggingFace` · `FastAPI` · `Streamlit`  
 `Docker` · `AWS (SageMaker, EC2, S3)` · `Git` · `MySQL` · `PostgreSQL`
 
+## 📝 I regularly write articles:
+ - [https://medium.com/@SapnilPatel](https://medium.com/@SapnilPatel)
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sapnilpatel/)
@@ -38,12 +41,6 @@ I enjoy building intelligent systems to solve real-world problems using:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnilpatel&label=Profile%20views&color=0e75b6&style=flat" alt="sapnilpatel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapnilpatel" alt="sapnilpatel" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@SapnilPatel](https://medium.com/@SapnilPatel)
-
-- 💬 Ask me about **Machine Learning, DSA**
-
-- 📫 How to reach me **sapnilpatel1482@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
