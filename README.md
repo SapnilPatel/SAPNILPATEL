@@ -1,23 +1,40 @@
-<h1 align="center">Hi 👋, I'm Sapnil Patel</h1>
-<h3 align="center">👋 Hi there! I'm Sapnil Patel, a passionate Data Scientist and AI/ML practitioner currently pursuing my Master’s in Applied Data Science at the University of Southern California (USC).
+# 👋 Hi, I'm Sapnil Patel
 
-🚀 I enjoy solving real-world problems using:
+I'm a passionate Data Scientist and AI/ML practitioner currently pursuing my Master’s in Applied Data Science at the **University of Southern California (USC)**.
 
-Large Language Models (LLMs) for natural language understanding and SQL generation
+## 🚀 What I Do
 
-Computer Vision for tasks like image classification and brain activity-based reconstruction
+I enjoy building intelligent systems to solve real-world problems using:
 
-NLP & Audio Processing for tasks like metaphor detection and transcription
+- 🧠 **Large Language Models (LLMs)** — natural language to SQL, semantic parsing
+- 🖼️ **Computer Vision** — image classification, brain activity-based image reconstruction
+- 🗣️ **NLP & Audio Processing** — metaphor interpretation, transcription
+- 🛠️ **ML Pipelines & Deployment** — end-to-end ML systems, Docker, CI/CD, FastAPI
 
-🧠 I’m currently:
+## 🔬 Current Roles
 
-Research Assistant @ USC's Center for the Neuroscience of Embodied Cognition (CeNEC) — connecting cognitive science with data science
+- 🎓 **Research Assistant** @ USC Brain and Creativity Institute  
+  Exploring human-AI alignment via cross-modal metaphor analysis (color/audio vs. language)
 
-Working on ChatDB, an open-source interface to talk to SQL databases using natural language
+- 🧠 **Volunteer Researcher** @ Center for the Neuroscience of Embodied Cognition (CeNEC)  
+  Connecting cognitive science with AI tools and methods
 
-Contributor to AI/ML tools and open-source projects
+- 💬 **Lead Developer of [ChatDB](https://github.com/SapnilPatel/ChatDB)**  
+  A natural language interface to SQL databases using LLMs (Google Gemini)
 
-🛠️ Tech Stack: Python, TensorFlow, PyTorch, HuggingFace, FastAPI, Streamlit, Docker, AWS, Git, MySQL, PostgreSQL</h3>
+## 🧰 Tech Stack
+
+`Python` · `TensorFlow` · `PyTorch` · `HuggingFace` · `FastAPI` · `Streamlit`  
+`Docker` · `AWS (SageMaker, EC2, S3)` · `Git` · `MySQL` · `PostgreSQL`
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sapnilpatel/)
+
+---
+
+⭐ Check out my pinned repositories to see what I’m building!
+
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
