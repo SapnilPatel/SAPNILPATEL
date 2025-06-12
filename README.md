@@ -13,14 +13,11 @@ I enjoy building intelligent systems to solve real-world problems using:
 
 ## 🔬 Current Roles
 
-- 🎓 **Research Assistant** @ USC Brain and Creativity Institute  
-  Exploring human-AI alignment via cross-modal metaphor analysis (color/audio vs. language)
-
-- 🧠 **Volunteer Researcher** @ Center for the Neuroscience of Embodied Cognition (CeNEC)  
+- 🎓 **Research Assistant** @ USC Center for the Neuroscience of Embodied Cognition (CeNEC)  
   Connecting cognitive science with AI tools and methods
 
 - 💬 **Lead Developer of [ChatDB](https://github.com/SapnilPatel/ChatDB)**  
-  A natural language interface to SQL databases using LLMs (Google Gemini)
+  A natural language interface to SQL & NoSQL databases using LLMs (Google Gemini)
 
 ## 🧰 Tech Stack
 
