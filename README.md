@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sapnil Patel</h1>
-<h3 align="center">I am Machine Learning Enthusiast. I am passionate about NLP and LLM.</h3>
+<h3 align="center">👋 Hi there! I'm Sapnil Patel, a passionate Data Scientist and AI/ML practitioner currently pursuing my Master’s in Applied Data Science at the University of Southern California (USC).
+
+🚀 I enjoy solving real-world problems using:
+
+Large Language Models (LLMs) for natural language understanding and SQL generation
+
+Computer Vision for tasks like image classification and brain activity-based reconstruction
+
+NLP & Audio Processing for tasks like metaphor detection and transcription
+
+🧠 I’m currently:
+
+Research Assistant @ USC's Center for the Neuroscience of Embodied Cognition (CeNEC) — connecting cognitive science with data science
+
+Working on ChatDB, an open-source interface to talk to SQL databases using natural language
+
+Contributor to AI/ML tools and open-source projects
+
+🛠️ Tech Stack: Python, TensorFlow, PyTorch, HuggingFace, FastAPI, Streamlit, Docker, AWS, Git, MySQL, PostgreSQL</h3>
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
